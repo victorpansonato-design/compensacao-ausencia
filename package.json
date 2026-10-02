@@ -1,0 +1,12 @@
+{
+  "name": "compensacao-ausencia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo do fluxo de compensação de ausências · UniAnchieta",
+  "scripts": {
+    "build": "python scripts/build.py"
+  },
+  "devDependencies": {
+    "geist": "^1.3.1"
+  }
+}
